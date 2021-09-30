@@ -35,3 +35,24 @@ def shortest_unweighted_path(graph, start, end):
             node_distance.put((new_node, current_distance + 1))
 
     return -1
+
+"""
+
+Shortest Path in Unweighted Graph using Python
+
+Input: List of lists
+Output: Sorted array in ascending order
+----------------------------------------
+Sample Input:
+graph = [[1, 2], [2], [3], []]
+start = 0
+end = 3
+
+Output:
+2
+----------------------------------------
+Time Complexity:
+Worst case = O(N)
+Space Complexity: O(N)
+
+"""
