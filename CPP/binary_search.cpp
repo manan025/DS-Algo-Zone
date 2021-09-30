@@ -58,6 +58,7 @@ int main()
 Binary search implementation in C++
 Input: Size of array , Array of integers and the value to be searched in the array
 Output: Returns position of the element if it's present else '-1'
+
 ----------------------------------------
 Sample Input1:
 6
