@@ -41,7 +41,7 @@ def shortest_unweighted_path(graph, start, end):
 Shortest Path in Unweighted Graph using Python
 
 Input: List of lists
-Output: Sorted array in ascending order
+Output: Shortest path between two given nodes
 ----------------------------------------
 Sample Input:
 graph = [[1, 2], [2], [3], []]
