@@ -1,3 +1,29 @@
+// Bubble Sort
+/*
+Example 1:
+Input:-
+How many numbers: 5
+Enter the numbers: 4
+3
+2
+5
+1
+Output:-
+After sorting :
+1 2 3 4 5
+
+Example 2:
+Input:-
+How many numbers: 5
+Enter the numbers: 5
+4
+3
+2
+1
+Output:-
+After sorting :
+1 2 3 4 5
+*/
 #include<stdio.h>
 #include<stdlib.h>
 int main()
@@ -35,3 +61,7 @@ int main()
 	}
 	return(0);
 }
+
+// Space complexity: 1
+// Time complexity: O(N^2)
+
