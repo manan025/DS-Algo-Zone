@@ -5,6 +5,8 @@ Format: -[Program name](name of the file)
 
 [Bubble Sort](bubble_sort.cpp)
 
+[DNF SORT](dnf_sort.cpp)
+
 [Insertion Sort](insertion_sort.cpp)
 
 [Implement Stack using array](StackUsingArray.cpp)
