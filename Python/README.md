@@ -9,6 +9,8 @@ Format: -[Program name](name of the file)
 
 [Union Find Data Structure](ufds.py)
 
+[Kadane's Algorithm to find Largest Sum contiguous subarray](ufds.py)
+
 [Linear Search](LinearSearch.py) 
 
 [Longest Substring Without Repeating Characters](lengthOfLongestSubstring.py)
