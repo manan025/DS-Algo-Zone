@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+[0/1 knapsack](knapsack.cpp)
+
 [Binary Search](binary_search.cpp)
 
 [Bubble Sort](bubble_sort.cpp)
