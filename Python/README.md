@@ -5,12 +5,14 @@ Format: -[Program name](name of the file)
 
 [Bubble Sort](bubbleSort.py)
 
-[Shortest Path in Unweighted Graph](shortest_path_unweighted.py)  
-
-[Union Find Data Structure](ufds.py)
-
-[Linear Search](LinearSearch.py) 
+[Linear Search](LinearSearch.py)
 
 [Longest Substring Without Repeating Characters](lengthOfLongestSubstring.py)
 
+[Merge Sort](MergeSort.py)
+
 [Palindrome Check](palindrome_check.py)
+
+[Shortest Path in Unweighted Graph](shortest_path_unweighted.py)
+
+[Union Find Data Structure](ufds.py)
