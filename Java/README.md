@@ -2,7 +2,7 @@ Add links to your code in Alphabetical Order.
 
 [Binary Search](./BinarySearch.java)
 
-https://github.com/LalithyaManasaPatri/DS-Algo-Zone/blob/bubblesortJava/Java/bubbleSort.java
+[Bubble Sort](./bubbleSort.java)
 
 [Minimum Number of 1s](./min_number_of_1.java)
 
