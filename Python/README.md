@@ -14,3 +14,5 @@ Format: -[Program name](name of the file)
 [Longest Substring Without Repeating Characters](lengthOfLongestSubstring.py)
 
 [Palindrome Check](palindrome_check.py)
+
+[Dijkstra's Algorithm](Dijkstra's.py)
