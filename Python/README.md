@@ -20,3 +20,5 @@ Format: -[Program name](name of the file)
 [Selection Sort](selectionSort.py)
 
 [Row_with_minimum_number_of 1's](Row_with_minimum_number_of_1's.py)
+
+[Vertical Traversal of Binary Tree](verticaltraversalBT.py)
