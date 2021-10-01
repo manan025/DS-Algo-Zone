@@ -26,7 +26,8 @@ fun main(args: Array<String>) {
        println()
    }
 }
-/* SAMPLE INPUT OUTPUT
+/* 
+SAMPLE INPUT OUTPUT
 For a 3 x 3 board:
   Solutions = 0
 
@@ -40,4 +41,5 @@ For a 5 x 5 board:
   
   Time Complexity=O(n!)
   
-  Space Complexity =O(n)*/
+  Space Complexity =O(n)
+  */
