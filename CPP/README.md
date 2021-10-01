@@ -5,4 +5,4 @@ Format: -[Program name](name of the file)
 
 [Bubble Sort](bubble_sort.cpp)
 
-[Minimum number of 1's](Row-with-minimum-number-of-1s-in-C++.cpp)
+[Minimum number of 1's](Row%20with%20minimum%20number%20of%201s%20in%20C++.cpp)
