@@ -7,6 +7,8 @@ Format: -[Program name](name of the file)
 
 [Bubble Sort](bubble_sort.cpp)
 
+[Fibonacci Series](fibonacci_series.cpp)
+
 [Insertion Sort](insertion_sort.cpp)
 
 [Kadane's_Algorithm](Kadane's_Algorithm.cpp)
