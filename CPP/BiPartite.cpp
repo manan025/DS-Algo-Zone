@@ -37,3 +37,16 @@ int main()
     cout<<g.is_bipartite();
     return 0;
 }
+/*
+Time-Complexity: O(n)
+Space-Complexity: O(n)
+
+Sample Test Case1:
+    graph g;
+    g.addedge(0,1);
+    g.addedge(0,2);
+    g.addedge(1,3);
+    g.addedge(2,4);
+    g.addedge(3,4);
+    cout<<g.is_bipartite();
+*/
