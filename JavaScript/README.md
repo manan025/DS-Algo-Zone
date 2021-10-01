@@ -11,6 +11,10 @@ Format: -[Program name](name of the file)
 
 [Palindrome Check](Check_Palindrome.js)
 
+[Merge Sort](Merge_Sort.js)
+
+[Minimum Number of 1s](./min_number_of_1.js)
+
 [Selection Sort](selection_sort.js)
 
 [Minimum Number of 1s](./min_number_of_1.js)
