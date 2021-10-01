@@ -5,6 +5,10 @@ Format: -[Program name](name of the file)
 
 [Bubble Sort](bubble_sort.cpp)
 
+[Deletion In Binary Search Tree](Deletion_in_BST.cpp)
+
+[Insertion In Binary Search Tree](Insertion_in_BST.cpp)
+
 [Insertion Sort](insertion_sort.cpp)
 
 [Implement Stack using array](StackUsingArray.cpp)
@@ -24,3 +28,4 @@ Format: -[Program name](name of the file)
 [Floyd Warshall Algorithm](Floyd-Warshall_Algorithm.cpp)
 
 [Maximum Sum Increasing Subsequence](Max_Sum_Inc_Subs.cpp)
+
