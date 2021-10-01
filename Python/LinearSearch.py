@@ -1,4 +1,18 @@
-# Complexit O(n)
+"""
+Input : arr[] = [1, 2, 3, 4, 7]
+        x = 3;
+Output : 2
+Element x is present at index 2
+
+Input : arr[] = [1, 2, 3, 4, 7]
+           x = 10;
+Output : -1
+Element x is not present in arr[].
+
+Time Complexity O(n)
+Space Complexity O(1)
+"""
+
 # Here arr is the array and x is the element to be searched
 def linearSearch(arr, x):
     for i in range(len(arr)):
