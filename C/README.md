@@ -14,3 +14,5 @@ Format: -[Program name](name of the file)
 [Stack](stack.c)
 
 [Bubble Sort](bubbleSort.c)
+
+[Tree Traversals](Tree_traversals.c)
