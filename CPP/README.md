@@ -21,6 +21,8 @@ Format: -[Program name](name of the file)
 
 [Longest Substring without Repeating characters](Longest_Substring_without_repeating_characters.cpp)
 
+[Bi Partite](BiPartite.cpp)
+
 [Tower of Hanoi Recursive](Tower_of_Hanoi_Recursive.cpp)
 
 [Union Find DS](Union_find.cpp)
@@ -30,3 +32,4 @@ Format: -[Program name](name of the file)
 [Floyd Warshall Algorithm](Floyd-Warshall_Algorithm.cpp)
 
 [Maximum Sum Increasing Subsequence](Max_Sum_Inc_Subs.cpp)
+
