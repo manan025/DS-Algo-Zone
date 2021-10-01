@@ -19,6 +19,13 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 Example 4:
 Input: s = ""
 Output: 0
+
+Time Complexity: O(n^2)
+
+Space Complexity: O(n)
+
+where n is the number of characters in the string.
+
 """
 
 
