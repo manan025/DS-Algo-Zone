@@ -15,6 +15,8 @@ Format: -[Program name](name of the file)
 
 [Palindrome Check](palindrome_check.py)
 
+[Dijkstra's Algorithm](Dijkstra's.py)
+
 [Union Find Data Structure](ufds.py)
 
 [Selection Sort](selectionSort.py)
@@ -22,3 +24,5 @@ Format: -[Program name](name of the file)
 [Row_with_minimum_number_of 1's](Row_with_minimum_number_of_1's.py)
 
 [Floyd Warshall](Floyd.py)
+
+[Maximum Sum Increasing Subsequence](MaximumSumIncreasingSubsequence.py)
