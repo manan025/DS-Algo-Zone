@@ -19,8 +19,7 @@
       while (leftIndex < left.length && rightIndex < right.length) {
          if (left[leftIndex] < right[rightIndex]) {
          result.push(left[leftIndex])
-         leftIndex++
-         document.write("</br>");        
+         leftIndex++      
          } else {
          result.push(right[rightIndex])
          rightIndex++      
