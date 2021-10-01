@@ -11,4 +11,4 @@ Format: -[Program name](name of the file)
 
 [Palindrome Check](palindrome_check.py)
 
-[Row_with_minimum_number_of 1's](./Row_with_minimum_number_of 1's.py)
+[Row_with_minimum_number_of 1's](Row_with_minimum_number_of_1's.py)
