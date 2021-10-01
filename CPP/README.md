@@ -17,6 +17,8 @@ Format: -[Program name](name of the file)
 
 [Linear Search](linear_search.cpp)
 
+[Level Order Traversal in BST](Level_order_traversal_BST.cpp)
+
 [Minimum number of 1's](Row%20with%20minimum%20number%20of%201s%20in%20C++.cpp)
 
 [Quick Sort](quick_sort.cpp)
