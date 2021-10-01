@@ -38,7 +38,7 @@ function main() {
 main();
 
 /*
-Input: Sorted array of numbers and the number we are searching
+Input: An array of numbers and the number we are searching
 Output: Returns position of the element if it's present if not -1
 
 ----------------------------------------
