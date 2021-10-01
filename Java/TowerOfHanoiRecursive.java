@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TowerOfHanoi {
+public class TowerOfHanoiRecursive {
     public static void towerOfHanoi(int disks, char originRod, char destinyRod, char auxRod) {
         if (disks == 1) {
             // Base condition, when only one disk is left, we can freely move it to our destiny rod
