@@ -19,6 +19,8 @@ Format: -[Program name](name of the file)
 
 [Union Find DS](Union_find.cpp)
 
+[Djikstra's Algorithm](Djikstra's_Algorithm.cpp)
+
 [Floyd Warshall Algorithm](Floyd-Warshall_Algorithm.cpp)
 
 [Maximum Sum Increasing Subsequence](Max_Sum_Inc_Subs.cpp)
