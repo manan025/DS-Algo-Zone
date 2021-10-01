@@ -21,12 +21,12 @@ assignees: ''
 
 ## Assignees
 
-(Do not make changes in this section until asked to do so)
-C - 
-C# -
-C++ - 
-Go - 
-Java - 
-Javascript - 
-Kotlin -
-Python - 
+(Do not make changes in this section until asked to do so)  
+C -  
+C# -  
+C++ -   
+Go -  
+Java -  
+Javascript -  
+Kotlin -  
+Python -  
