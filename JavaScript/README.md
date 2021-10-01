@@ -10,3 +10,5 @@ Format: -[Program name](name of the file)
 [Palindrome Check](Check_Palindrome.js)
 
 [Minimum Number of 1s](./min_number_of_1.js)
+
+[Quicksort](quicksort.js)
