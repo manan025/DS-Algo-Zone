@@ -9,6 +9,8 @@ Format: -[Program name](name of the file)
 
 [DFS](DFS.cpp)
 
+[Gold Mine using DP](gold_mine_using_dp.cpp)
+
 [Insertion Sort](insertion_sort.cpp)
 
 [Implement Stack using array](StackUsingArray.cpp)
