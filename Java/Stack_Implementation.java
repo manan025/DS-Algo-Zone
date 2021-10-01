@@ -120,3 +120,48 @@ class Stack_Implementation {
 
 	}
 }
+
+
+/** 
+
+Enter the no. of elements that can be added to the stack: 
+100
+Stack Operations : Push = 1  Pop = 2  Peek = 3  Display = 4  End = 5
+
+
+Enter your choice = 
+1
+Enter number to be pushed to stack = 
+10
+10 pushed into stack
+Stack Operations : Push = 1  Pop = 2  Peek = 3  Display = 4  End = 5
+
+
+Enter your choice = 
+3
+10
+Stack Operations : Push = 1  Pop = 2  Peek = 3  Display = 4  End = 5
+
+
+Enter your choice = 
+4
+ 10
+Stack Operations : Push = 1  Pop = 2  Peek = 3  Display = 4  End = 5
+
+
+Enter your choice = 
+2
+10 popped out of stack
+Stack Operations : Push = 1  Pop = 2  Peek = 3  Display = 4  End = 5
+
+
+Enter your choice = 
+2
+No elements are present in the stack...UNDERFLOW
+Stack Operations : Push = 1  Pop = 2  Peek = 3  Display = 4  End = 5
+
+
+Enter your choice = 
+5
+
+**/
