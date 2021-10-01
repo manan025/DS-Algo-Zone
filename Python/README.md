@@ -10,3 +10,5 @@ Format: -[Program name](name of the file)
 [Longest Substring Without Repeating Characters](lengthOfLongestSubstring.py)
 
 [Palindrome Check](palindrome_check.py)
+
+[Selection Sort](selectionSort.py)
