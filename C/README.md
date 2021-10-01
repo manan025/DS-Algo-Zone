@@ -9,4 +9,8 @@ Format: -[Program name](name of the file)
 
 [Linear Search](linear_search.c)
 
+[Merge Sort](merge_sort.c)
+
 [Stack](stack.c)
+
+[Bubble Sort](bubbleSort.c)
