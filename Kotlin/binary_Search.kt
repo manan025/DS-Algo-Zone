@@ -39,3 +39,4 @@ fun binarySearch(input: IntArray, key: Int) : Int{
 // output : position not found
 
 // Time Complexity = O(log(n)) for worst case and would be O(1) in best case
+// space complexity = O(1)
