@@ -26,3 +26,18 @@ fun main(args: Array<String>) {
        println()
    }
 }
+/* SAMPLE INPUT OUTPUT
+For a 3 x 3 board:
+  Solutions = 0
+
+For a 4 x 4 board:
+  Solutions = 2
+  First is [1, 3, 0, 2]
+
+For a 5 x 5 board:
+  Solutions = 10
+  First is [0, 2, 4, 1, 3]
+  
+  Time Complexity=O(n!)
+  
+  Space Complexity =O(n)*/
