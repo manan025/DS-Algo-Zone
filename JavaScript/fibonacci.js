@@ -1,4 +1,4 @@
-fibonacci(n) {
+function fibonacci(n) {
   var a = 0, b = 1;
   while (n--) {
     a = [b, b = a+b][0];
