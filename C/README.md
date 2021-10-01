@@ -13,4 +13,6 @@ Format: -[Program name](name of the file)
 
 [Stack](stack.c)
 
+[Quick sort](Quick_Sort.c)
+
 [Bubble Sort](bubbleSort.c)
