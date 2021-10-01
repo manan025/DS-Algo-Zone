@@ -2,6 +2,8 @@ Add links to your code in Alphabetical Order.
 
 [Binary Search](./BinarySearch.java)
 
+[Bubble Sort](./bubbleSort.java)
+
 [Insertion Sort](./InsertionSort.java)
 
 [Kadane Algo](./kadaneAlgorithm.java)
@@ -20,5 +22,9 @@ Add links to your code in Alphabetical Order.
 
 [Selection Sort](./SelectionSort.java)
 
+
 [Tower Of Hanoi - Recursive](./TowerOfHanoiRecursive.java)
- 
+
+[Insertion Sort](./InsertionSort.java)
+
+[Floyd Algorithm](./FloydAlgorithm.java)  
