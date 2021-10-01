@@ -5,9 +5,13 @@ Format: -[Program name](name of the file)
 
 [Breadth First Search](BFS.cpp)
 
+[Breadth First Search on a Grid](BFS_2d_Grid.cpp)
+
 [Bubble Sort](bubble_sort.cpp)
 
 [DFS](DFS.cpp)
+
+[DFS on a Grid](DFS_2d_Grid.cpp)
 
 [Insertion Sort](insertion_sort.cpp)
 
