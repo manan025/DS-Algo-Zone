@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an algorithm for this project
 title: ''
 labels: ''
 assignees: ''
@@ -18,3 +18,15 @@ assignees: ''
 ## Pitch
 
 (Please explain why this feature should be implemented and how it would be used.)
+
+## Assignees
+
+(Do not make changes in this section until asked to do so)  
+C -  
+C# -  
+C++ -   
+Go -  
+Java -  
+Javascript -  
+Kotlin -  
+Python -  
