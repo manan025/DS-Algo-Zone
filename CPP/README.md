@@ -7,6 +7,8 @@ Format: -[Program name](name of the file)
 
 [Insertion Sort](insertion_sort.cpp)
 
+[Implement Stack using array](StackUsingArray.cpp)
+
 [Linear Search](linear_search.cpp)
 
 [Minimum number of 1's](Row%20with%20minimum%20number%20of%201s%20in%20C++.cpp)
