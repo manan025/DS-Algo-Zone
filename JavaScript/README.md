@@ -3,3 +3,4 @@ Format: -[Program name](name of the file)
 
 
 [Binary Search](binary_search.js)
+[Palindrome Check](Palindrome_check.js)
