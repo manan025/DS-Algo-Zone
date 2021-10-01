@@ -1,5 +1,7 @@
 // C++ program to rotate an array by d elements 
 // Contributed by Manogya Rastogi
+/*Time complexity : O(n * d) 
+Auxiliary Space : O(1)*/
 #include <bits/stdc++.h>
 using namespace std;
 
