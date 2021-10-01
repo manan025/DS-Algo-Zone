@@ -7,6 +7,8 @@ Format: -[Program name](name of the file)
 
 [Insertion Sort](insertion_sort.cpp)
 
+[Implement Stack using array](StackUsingArray.cpp)
+
 [Kadane's_Algorithm](Kadane's_Algorithm.cpp)
 
 [Linear Search](linear_search.cpp)
