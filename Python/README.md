@@ -15,6 +15,8 @@ Format: -[Program name](name of the file)
 
 [Palindrome Check](palindrome_check.py)
 
+[Dijkstra's Algorithm](Dijkstra's.py)
+
 [Union Find Data Structure](ufds.py)
 
 [Selection Sort](selectionSort.py)
