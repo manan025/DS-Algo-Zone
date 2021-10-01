@@ -7,6 +7,10 @@ Format: -[Program name](name of the file)
 
 [Bubble Sort](bubble_sort.cpp)
 
+[Deletion In Binary Search Tree](Deletion_in_BST.cpp)
+
+[Insertion In Binary Search Tree](Insertion_in_BST.cpp)
+
 [DFS](DFS.cpp)
 
 [Insertion Sort](insertion_sort.cpp)
