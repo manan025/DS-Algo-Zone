@@ -12,3 +12,5 @@ Format: -[Program name](name of the file)
 [Bubble Sort](bubble_sort.js)
 
 [Minimum Number of 1s](./min_number_of_1.js)
+
+[Unobounded Knapsack](unbounded_knapsack.js)
