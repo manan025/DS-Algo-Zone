@@ -3,6 +3,8 @@ Format: -[Program name](name of the file)
 
 [Binary Search](binary_search.cpp)
 
+[Binary Tree Recursive Traversals](binary_tree_recursive_traversals.cpp)
+
 [Bubble Sort](bubble_sort.cpp)
 
 [Insertion Sort](insertion_sort.cpp)
