@@ -60,3 +60,19 @@ int main()
     g.addedge("Agra","Delhi",1,true);
     g.Dijsktra("Amritsar");
 }
+
+/*
+Sample-Test Case1:
+    g.addedge("Amritsar","Delhi",1,true);
+    g.addedge("Amritsar","Jaipur",4,true);
+    g.addedge("Jaipur","Delhi",2,true);
+    g.addedge("Jaipur","Mumbai",8,true);
+    g.addedge("Bhopal","Agra",2,true);
+    g.addedge("Mumbai","Bhopal",3,true);
+    g.addedge("Agra","Delhi",1,true);
+    g.Dijsktra("Amritsar");
+
+
+Time-Complexity: O(N*E)
+Space-Complexity: O(N)
+*/
