@@ -13,3 +13,6 @@ Add links to your code in Alphabetical Order.
 [Selection Sort](./SelectionSort.java)
 
 [Insertion Sort](./InsertionSort.java)
+
+[Sum And Product Of Digits Of A Number](./SumAndProductOfNumber.java)
+
