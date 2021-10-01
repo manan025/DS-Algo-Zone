@@ -6,4 +6,4 @@ Format: -[Program name](name of the file)
 
 [Palindrome Check](Check_Palindrome.js)
 
-[Merge Sort](Merge_sort.js)
+[Merge Sort](Merge_Sort.js)
