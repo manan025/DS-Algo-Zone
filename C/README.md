@@ -16,3 +16,5 @@ Format: -[Program name](name of the file)
 [Quick sort](Quick_Sort.c)
 
 [Bubble Sort](bubbleSort.c)
+
+[Fibonacci_series](Fibonacci_series.c)
