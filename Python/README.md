@@ -15,4 +15,12 @@ Format: -[Program name](name of the file)
 
 [Longest Substring Without Repeating Characters](lengthOfLongestSubstring.py)
 
+[Merge Sort](MergeSort.py)
+
 [Palindrome Check](palindrome_check.py)
+
+[Union Find Data Structure](ufds.py)
+
+[Selection Sort](selectionSort.py)
+
+[Row_with_minimum_number_of 1's](Row_with_minimum_number_of_1's.py)
