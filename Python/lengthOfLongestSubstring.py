@@ -22,7 +22,7 @@ Output: 0
 """
 
 
-def lengthOfLongestSubstring(self, s: str) -> int:
+def lengthOfLongestSubstring(s: str) -> int:
     res = 0
     len_ = len(s)
     for i in range(0, len_):
@@ -39,4 +39,6 @@ def lengthOfLongestSubstring(self, s: str) -> int:
     else:
         return res
 
+
+print(lengthOfLongestSubstring("pwwkew"))
 
