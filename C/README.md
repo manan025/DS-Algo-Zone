@@ -5,4 +5,6 @@ Format: -[Program name](name of the file)
 
 [Check Palindrome](check_palindrome.c)
 
+[Linear Search](linear_search.c)
+
 [Stack](stack.c)
