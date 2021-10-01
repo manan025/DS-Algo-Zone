@@ -48,7 +48,7 @@ Displaying sorted array:-
 [-98, -12, 10, 13, 41, 57]
 
 ---Sample Input - 2
-Inpit array: [19, -19, 0, 13, 51, 2, 76, 134, 12]
+Input array: [19, -19, 0, 13, 51, 2, 76, 134, 12]
 Output:- 
 Entered array (unsorted) is:-
 [19, -19, 0, 13, 51, 2, 76, 134, 12]
