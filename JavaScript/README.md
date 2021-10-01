@@ -19,6 +19,8 @@ Format: -[Program name](name of the file)
 
 [Minimum Number of 1s](./min_number_of_1.js)
 
+[Longest Substring Without Repeating Characters](longest_substring_without_repeating_characters.js)
+
 [Bubble Sort](bubble_sort.js)
 
 [Quicksort](quicksort.js)
