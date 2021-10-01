@@ -16,7 +16,7 @@ void leftRotatebyOne(int arr[], int n)
     arr[n-1] = temp;
 }
 
-/*Function to left rotate arr[] of size n by d*/
+//Function to left rotate arr[] of size n by d
 void leftRotate(int arr[], int d, int n)
 {
     for (int i = 0; i < d; i++)
