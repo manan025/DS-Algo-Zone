@@ -15,3 +15,5 @@ Add links to your code in Alphabetical Order.
 [Insertion Sort](./InsertionSort.java)
 
 [Floyd Algorithm](./FloydAlgorithm.java) 
+
+[Vertical Traversal Of Binary Tree](./VerticalTraversalOfTree.java) 
