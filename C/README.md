@@ -7,4 +7,6 @@ Format: -[Program name](name of the file)
 
 [Insertion Sort](insertion_sort.c)
 
+[Linear Search](linear_search.c)
+
 [Stack](stack.c)
