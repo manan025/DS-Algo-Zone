@@ -18,7 +18,12 @@ Add links to your code in Alphabetical Order.
 
 [Palindrome String](./PalindromeString.java)
 
+[Quick Sort](./QuickSort.java)
+
 [Selection Sort](./SelectionSort.java)
+
+
+[Tower Of Hanoi - Recursive](./TowerOfHanoiRecursive.java)
 
 [Insertion Sort](./InsertionSort.java)
 
