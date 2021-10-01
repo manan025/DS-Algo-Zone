@@ -2,6 +2,8 @@ Add links to your code in Alphabetical Order.
 
 [Binary Search](./BinarySearch.java)
 
+[BFS Shortest Path Algorith](./BreadthFirstSearch.java)
+
 [Bubble Sort](./bubbleSort.java)
 
 [Insertion Sort](./InsertionSort.java)
@@ -18,10 +20,17 @@ Add links to your code in Alphabetical Order.
 
 [Palindrome String](./PalindromeString.java)
 
+[Quick Sort](./QuickSort.java)
+
 [Selection Sort](./SelectionSort.java)
+
+
+[Tower Of Hanoi - Recursive](./TowerOfHanoiRecursive.java)
 
 [Insertion Sort](./InsertionSort.java)
  
 [Quick Sort](./QuickSort.java)
 
 [Palindrome linked list](./PalindromeLinkedList)
+
+[Floyd Algorithm](./FloydAlgorithm.java)  
