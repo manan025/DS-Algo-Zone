@@ -4,8 +4,6 @@ Add links to your code in Alphabetical Order.
 
 [Insertion Sort](./InsertionSort.java)
 
-[Kadane's Algorithm](./KadaneAlgorithm.java)
-
 [Linear Search](./LinearSearch.java)
 
 [Longest Substring Without Repeating Characters](./Longest_Substring_Without_Repeating_Characters.java)
