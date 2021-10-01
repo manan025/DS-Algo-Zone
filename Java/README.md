@@ -10,4 +10,6 @@ Add links to your code in Alphabetical Order.
 
 [Palindrome String](./PalindromeString.java)
 
+[Selection Sort](./SelectionSort.java)
+
 [Insertion Sort](./InsertionSort.java)
