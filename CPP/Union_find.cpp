@@ -1,3 +1,9 @@
+/* APPROX COMPLEXITY OF O(1) FOR FIND AND UNION OPERATION
+   Space Complexity O(N)
+   n = 4,m =4
+   [0,1],[1,2],[2,3],[3,0]
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 class Graph {
