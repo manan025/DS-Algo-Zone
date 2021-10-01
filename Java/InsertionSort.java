@@ -1,9 +1,7 @@
-package com.company;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class InsertionSort {
 
     public static void main(String[] args) {
 //Efficient for small sized array
