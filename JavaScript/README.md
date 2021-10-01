@@ -3,6 +3,8 @@ Format: -[Program name](name of the file)
 
 [Binary Search](binary_search.js)
 
+[Fibonacci](fibonacci.js)
+
 [Insertion Sort](insertion_sort.js)
 
 [Linear Search](linear_search.js)
