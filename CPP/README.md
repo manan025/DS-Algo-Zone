@@ -5,6 +5,10 @@ Format: -[Program name](name of the file)
 
 [Bubble Sort](bubble_sort.cpp)
 
+[Djikstra's Algorithm](Djikstra's_Algorithm.cpp)
+
+[Floyd Warshall Algorithm](Floyd-Warshall_Algorithm.cpp)
+
 [Insertion Sort](insertion_sort.cpp)
 
 [Implement Stack using array](StackUsingArray.cpp)
@@ -13,14 +17,12 @@ Format: -[Program name](name of the file)
 
 [Linear Search](linear_search.cpp)
 
+[Maximum Sum Increasing Subsequence](Max_Sum_Inc_Subs.cpp)
+
 [Minimum number of 1's](Row%20with%20minimum%20number%20of%201s%20in%20C++.cpp)
 
 [Longest Substring without Repeating characters](Longest_Substring_without_repeating_characters.cpp)
 
-[Union Find DS](Union_find.cpp)
+[Unbounded Knapsack](unbounded_knapsack.cpp)
 
-[Djikstra's Algorithm](Djikstra's_Algorithm.cpp)
-
-[Floyd Warshall Algorithm](Floyd-Warshall_Algorithm.cpp)
-
-[Maximum Sum Increasing Subsequence](Max_Sum_Inc_Subs.cpp)
+[Union Find DS](Union_find.cpp) 
