@@ -2,6 +2,8 @@ Add links to your code in Alphabetical Order.
 
 [Binary Search](./BinarySearch.java)
 
+[BFS Shortest Path Algorith](./BreadthFirstSearch.java)
+
 [Bubble Sort](./bubbleSort.java)
 
 [Insertion Sort](./InsertionSort.java)
