@@ -5,3 +5,5 @@ Format: -[Program name](name of the file)
 [Binary Search](binary_search.js)
 
 [Palindrome Check](Check_Palindrome.js)
+
+[Merge Sort](Merge_sort.js)
