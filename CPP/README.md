@@ -3,7 +3,11 @@ Format: -[Program name](name of the file)
 
 [Binary Search](binary_search.cpp)
 
+[Breadth First Search](BFS.cpp)
+
 [Bubble Sort](bubble_sort.cpp)
+
+[DFS](DFS.cpp)
 
 [Insertion Sort](insertion_sort.cpp)
 
