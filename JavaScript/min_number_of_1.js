@@ -42,8 +42,6 @@ findMinNumberOfOnes = (numOfRows, numOfCols, array) => {
 
   let row = new Array(numOfRows).fill(0); // an array for number of 1s in each row
 
-  console.log(numOfCols)
-
   for (let i = 0; i < numOfRows; i++) {
     for (let j = 0; j < numOfCols; j++) {
       if (array[i][j] == 1) {
@@ -52,17 +50,11 @@ findMinNumberOfOnes = (numOfRows, numOfCols, array) => {
     }
   }
 
- console.log(row);
-
   let min_1s_in_row = row[0];
-
-
 
   for (let i = 0; i < numOfRows; i++) {
     min_1s_in_row = Math.min(min_1s_in_row, row[i]);
   } // variable min_is_in_row contains the least number of 1s present in a row
-
-console.log(min_1s_in_row)
 
   for (let i = 0; i < numOfRows; i++) {
 
@@ -76,7 +68,6 @@ console.log(min_1s_in_row)
   }
 
 };
-
 
 // SAMPLE INPUTS
 
