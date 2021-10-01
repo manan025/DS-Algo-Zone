@@ -7,7 +7,11 @@ Format: -[Program name](name of the file)
 
 [Linear Search](linear_search.js)
 
+[Minimum Number of 1s](./min_number_of_1.js)
+
 [Palindrome Check](Check_Palindrome.js)
+
+[Selection Sort](selection_sort.js)
 
 [Minimum Number of 1s](./min_number_of_1.js)
 
