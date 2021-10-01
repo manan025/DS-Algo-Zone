@@ -1,66 +1,98 @@
-import java.util.*;
-public class Bubble_Sort_Using_Two_Stacks{
-  //driver method
-  public static void main(String[]args){
-    Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
-    int arr[] = new int[n];
-    for(int i = 0;i<n;i++){
-      arr[i] = sc.nextInt();
-    }
-    bubblesortstack(n,arr);
-  }
-  //Method for Bubble Sort by using Stack Data Structure
-  static void bubblesortstack(int n, int arr[]){
-    //Stack-1
-    Stack <Integer> S = new Stack<>();
-    for(int number:arr){
-      S.push(number);
-    }
-    //Stack-2
-    Stack <Integer> S1 = new Stack<>();
-    for(int i = 0;i<n;i++){
-      if(i%2==0){
-        while(!S.isEmpty()){
-          int I = S.pop();
-          if(S1.isEmpty()){
-            S1.push(I);
-          }
-          else{
-            if(S1.peek()>I){
-              int temp = S1.pop();
-              S1.push(I);
-              S1.push(temp);
-            }
+/* PROBLEM STATEMENT : WRITE A JAVA PROGRAM TO IMPLEMENT BUBBLE SORT USING TWO STACKS */
+
+
+/* 
+Sample Input: 
+             n = 5
+             arr[ ] = {12, 4, 3, 67, 1}
+             
+Sample Output: 1 3 4 12 67
+  */
+
+import java.util.*;  
+class Sort{ 
+    
+    static void bubbleSortStack(int a[], int n){ 
+        Stack<Integer> s1 = new Stack<>(); 
+          
+        for(int num : a){ 
+            s1.push(num);
+        }
+          
+        Stack<Integer> s2 = new Stack<>(); 
+          
+        for(int i = 0; i < n; i++){ 
+            
+            if(i % 2 == 0){ 
+                while (!s1.isEmpty()){ 
+                    int t = s1.pop(); 
+                      
+                    if(s2.isEmpty()){ 
+                        s2.push(t);  
+                    }
+                    
+                    else{ 
+                        
+                        if(s2.peek() > t){ 
+                            int temp = s2.pop(); 
+                            s2.push(t); 
+                            s2.push(temp); 
+                        } 
+                        
+                        else{ 
+                            s2.push(t); 
+                        } 
+                    } 
+                } 
+                a[n-1-i] = s2.pop(); 
+            }     
+            
             else{
-              S1.push(I);
-            }
-          }
+                
+                while(!s2.isEmpty()){ 
+                    int t = s2.pop(); 
+                      
+                    if (s1.isEmpty()){ 
+                        s1.push(t); 
+                    }
+                      
+                    else{ 
+                        
+                        if (s1.peek() > t){ 
+                            int temp = s1.pop(); 
+                              
+                            s1.push(t); 
+                            s1.push(temp); 
+                        } 
+                        
+                        else{
+                            s1.push(t); 
+                        }
+                    } 
+                } 
+                  
+                a[n-1-i] = s1.pop(); 
+            } 
         }
-        arr[n-1-i] = S1.pop();
-      }
-      else{
-        while(!S1.isEmpty()){
-            int I = S1.pop();
-            if (S.isEmpty()){
-                S.push(I);
-            }
-            else
-            {
-              if (S.peek() > I)
-              {
-                int temp = S.pop();
-                S.push(I);
-                S.push(temp);
-              }
-              else{
-                S.push(I);
-              }
-          }
+        
+        for(int i = 0; i < n; i++){
+            System.out.print(a[i]+" "); 
         }
-      arr[n-1-i] = S.pop();
-      }
-    }
-    System.out.println(Arrays.toString(arr));
-  }
+    } 
+      
+    public static void main(String[] args){
+        
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int a[] = new int[n];
+        for(int i = 0;i<n;i++){
+          a[i] = scan.nextInt();
+        }
+        bubbleSortStack(a, n); 
+    } 
 }
+
+/* Complexity Analysis
+  (i) Time Complexity : O(n^2) where n is the number of integers in given array a[ ]. This is the usual time complexity required by Bubble Sort.
+  (ii) Space Complexity : O(n) because we used space for n elements. This storage is required for stacks.
+*/
