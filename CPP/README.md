@@ -1,6 +1,6 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
-
+  
 [0/1 knapsack](knapsack.cpp)
 
 [Bi Partite](BiPartite.cpp)
@@ -30,6 +30,8 @@ Format: -[Program name](name of the file)
 [Implement Stack using array](StackUsingArray.cpp)
 
 [Kadane's_Algorithm](Kadane's_Algorithm.cpp)
+
+[Kruskal's Algorithm for Minimum Spanning Tree](kruskal_minimum_spanning_tree.cpp)
 
 [Linear Search](linear_search.cpp)
 
