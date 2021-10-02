@@ -11,4 +11,6 @@ Format: -[Program name](name of the file)
 
 [Quick Sort](./QuickSort.kt)
 
+[Stack](./Stack.kt)
+
 
