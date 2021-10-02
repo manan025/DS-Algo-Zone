@@ -32,3 +32,5 @@ Format: -[Program name](name of the file)
 [Floyd Warshall](Floyd.py)
 
 [Maximum Sum Increasing Subsequence](MaximumSumIncreasingSubsequence.py)
+
+[Insertion Sort](Insertion_Sort.py)
