@@ -13,4 +13,4 @@ Format: -[Program name](name of the file)
 
 [Fibonacci](./fibonacci.kt)
 
-
+[Stack](./Stack.kt)
