@@ -1,13 +1,21 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+[0/1 knapsack](knapsack.cpp)
+
 [Bi Partite](BiPartite.cpp)
 
 [Binary Search](binary_search.cpp)
 
+[Binary Tree Recursive Traversals](binary_tree_recursive_traversals.cpp)
+
+[Fibonacci Series](fibonacci_series.cpp)
+
 [Breadth First Search](BFS.cpp)
 
 [Bubble Sort](bubble_sort.cpp)
+
+[DNF SORT](dnf_sort.cpp)
 
 [DFS](DFS.cpp)
 
@@ -36,9 +44,3 @@ Format: -[Program name](name of the file)
 [Quick Sort](quick_sort.cpp)
 
 [Union Find DS](Union_find.cpp)
-
-
- 
-
-
-

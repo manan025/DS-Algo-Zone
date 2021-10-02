@@ -26,3 +26,7 @@ Format: -[Program name](name of the file)
 [Bubble Sort](bubble_sort.js)
 
 [Quicksort](quicksort.js)
+
+[Unbounded Knapsack](unbounded_knapsack.js)
+
+[Tower of Hanoi (Recursive,Non-Recursive)](tower_of_hanoi_recursive.js)
