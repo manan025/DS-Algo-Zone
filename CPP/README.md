@@ -49,6 +49,8 @@ Format: -[Program name](name of the file)
 
 [Minimum number of 1's](Row%20with%20minimum%20number%20of%201s%20in%20C++.cpp)
 
+[Merge Two Sorted Linked list](Merge_sorted_linked_lists.cpp)
+
 [Morris Preorder and Inorder Traversal](Morris_Preorder_and_Inorder_Traversal.cpp)
 
 [Partition Equal Subset Sum](equal_partition_subset_sum.cpp)
