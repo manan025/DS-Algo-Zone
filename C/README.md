@@ -19,6 +19,8 @@ Format: -[Program name](name of the file)
 
 [Bubble Sort](bubbleSort.c)
 
+[Euclid's Algorithm](Euclid_algorithm.c)
+
 [Fibonacci_series](Fibonacci_series.c)
 
 [Pascal_Triangle](Pascal_Triangle.c)
@@ -26,4 +28,3 @@ Format: -[Program name](name of the file)
 [Tree Traversals](Tree_traversals.c)
 
 [Fibonacci_series](fibonacci_series_code.c)
-
