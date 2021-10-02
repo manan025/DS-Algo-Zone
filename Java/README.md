@@ -31,6 +31,8 @@ Add links to your code in Alphabetical Order.
 [Tower Of Hanoi - Recursive](./TowerOfHanoiRecursive.java)
 
 [Insertion Sort](./InsertionSort.java)
+
+[N-Queen](./NQueen.java)
  
 [Quick Sort](./QuickSort.java)
 
@@ -39,8 +41,6 @@ Add links to your code in Alphabetical Order.
 [Kadane Algorithm](./KadenAlgorithm.java)
 
 [Palindrome linked list](./PalindromeLinkedList)
-
-[Floyd Algorithm](./FloydAlgorithm.java) 
 
 [Vertical Traversal Of Binary Tree](./VerticalTraversalOfTree.java) 
  
