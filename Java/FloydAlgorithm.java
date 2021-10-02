@@ -139,3 +139,13 @@ public class FloydAlgorithm{
         return false;
     }
 }
+
+/*
+Input: 1 -> 2 -> 3 -> 4 ->5 ->
+            |________________|
+ Loop is present at the 2nd element.
+Output: 1 -> 2 -> 3 -> 4 -> 5 ->null
+Time complexity - O(n)
+Space complexity - O(1)
+*/
+}
