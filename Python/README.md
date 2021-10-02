@@ -35,4 +35,6 @@ Format: -[Program name](name of the file)
 
 [Maximum Sum Increasing Subsequence](MaximumSumIncreasingSubsequence.py)
 
+[01Knapsack](01Knapsack.py)
+
 [Insertion Sort](Insertion_Sort.py)
