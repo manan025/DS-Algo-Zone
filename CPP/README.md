@@ -47,6 +47,8 @@ Format: -[Program name](name of the file)
 
 [Minimum number of 1's](Row%20with%20minimum%20number%20of%201s%20in%20C++.cpp)
 
+[Merge Two Sorted Linked list](Merge_sorted_linked_lists.cpp)
+
 [Partition Equal Subset Sum](equal_partition_subset_sum.cpp)
 
 [Tower of Hanoi Recursive](Tower_of_Hanoi_Recursive.cpp)
