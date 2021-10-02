@@ -24,6 +24,8 @@ Add links to your code in Alphabetical Order.
 
 [Palindrome String](./PalindromeString.java)
 
+[Pascal's Triangle](./Pascals_Triangle.java)
+
 [Quick Sort](./QuickSort.java)
 
 [Selection Sort](./SelectionSort.java)
