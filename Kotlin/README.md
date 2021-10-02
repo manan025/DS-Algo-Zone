@@ -8,3 +8,7 @@ Format: -[Program name](name of the file)
 [Palindrome Check](https://github.com/codenipun/DS-Algo-Zone/blob/main/Kotlin/palindrome.kt)
 
 [Row with minimum number of 1's](./min_number_of_1.kt)
+
+[Quick Sort](./QuickSort.kt)
+
+
