@@ -34,6 +34,8 @@ Add links to your code in Alphabetical Order.
  
 [Quick Sort](./QuickSort.java)
 
+[Merge Sorted linked list](./MergedSortedLinkedList)
+
 [Kadane Algorithm](./KadenAlgorithm.java)
 
 [Palindrome linked list](./PalindromeLinkedList)
@@ -45,4 +47,3 @@ Add links to your code in Alphabetical Order.
 [Quick Sort](./QuickSort.java)
 
 [Euclid's Algorithm](./Euclid_algorithm.java)
-
