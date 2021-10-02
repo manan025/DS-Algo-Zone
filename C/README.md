@@ -18,3 +18,5 @@ Format: -[Program name](name of the file)
 [Bubble Sort](bubbleSort.c)
 
 [Fibonacci_series](Fibonacci_series.c)
+
+[Pascal_Triangle](Pascal_Triangle.c)
