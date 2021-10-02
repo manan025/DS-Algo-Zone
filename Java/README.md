@@ -1,5 +1,7 @@
 Add links to your code in Alphabetical Order.
 
+[Binary Exponentiation](./Binary_Exponentiation.java)
+
 [Binary Search](./BinarySearch.java)
 
 [BFS Shortest Path Algorith](./BreadthFirstSearch.java)
