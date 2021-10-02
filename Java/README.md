@@ -28,16 +28,15 @@ Add links to your code in Alphabetical Order.
 
 [Selection Sort](./SelectionSort.java)
 
-
 [Tower Of Hanoi - Recursive](./TowerOfHanoiRecursive.java)
 
 [Insertion Sort](./InsertionSort.java)
  
 [Quick Sort](./QuickSort.java)
 
-[Palindrome linked list](./PalindromeLinkedList)
+[Kadane Algorithm](./KadenAlgorithm.java)
 
-[Floyd Algorithm](./FloydAlgorithm.java) 
+[Palindrome linked list](./PalindromeLinkedList)
 
 [Floyd Algorithm](./FloydAlgorithm.java) 
 
@@ -46,3 +45,4 @@ Add links to your code in Alphabetical Order.
 [Quick Sort](./QuickSort.java)
 
 [Euclid's Algorithm](./Euclid_algorithm.java)
+
