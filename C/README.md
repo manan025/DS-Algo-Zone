@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+[0/1 Knapsack](0-1_knapsack.c)
+
 [Binary Search](binary_search.c)
 
 [Check Palindrome](check_palindrome.c)
