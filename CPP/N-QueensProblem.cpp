@@ -42,10 +42,10 @@ bool solveNQUtil(int board[N][N], int col)
 bool solveNQ()
 {
 	int board[N][N] = { { 0, 0, 0, 0 ,0},
-						{ 0, 0, 0, 0 ,0},
-						{ 0, 0, 0, 0 ,0},
-						{ 0, 0, 0, 0 ,0},
-						{ 0, 0, 0, 0 ,0}};
+			    { 0, 0, 0, 0 ,0},
+	               	    { 0, 0, 0, 0 ,0},
+			    { 0, 0, 0, 0 ,0},
+			    { 0, 0, 0, 0 ,0}};
 
 	if (solveNQUtil(board, 0) == false) {
 		printf("Solution Not Exist");
@@ -60,3 +60,13 @@ int main()
 	solveNQ();
 	return 0;
 }
+/*
+Time-Complexity: O(n^2)
+Space-Complexity: O(1)
+Sample TestCase1:
+{ { 0, 0, 0, 0 ,0},
+{ 0, 0, 0, 0 ,0},
+{ 0, 0, 0, 0 ,0},
+{ 0, 0, 0, 0 ,0},
+{ 0, 0, 0, 0 ,0}};
+*/
