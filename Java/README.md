@@ -46,3 +46,5 @@ Add links to your code in Alphabetical Order.
 [Quick Sort](./QuickSort.java)
 
 [Euclid's Algorithm](./Euclid_algorithm.java)
+
+[Binary Tree Recursive Traversals](./BinaryTree_RecursiveTraversals.java)
