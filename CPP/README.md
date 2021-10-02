@@ -13,11 +13,15 @@ Format: -[Program name](name of the file)
 
 [Breadth First Search](BFS.cpp)
 
+[Breadth First Search on a Grid](BFS_2d_Grid.cpp)
+
 [Bubble Sort](bubble_sort.cpp)
 
 [DNF SORT](dnf_sort.cpp)
 
 [DFS](DFS.cpp)
+
+[DFS on a Grid](DFS_2d_Grid.cpp)
 
 [Gold Mine using DP](gold_mine_using_dp.cpp)
 
