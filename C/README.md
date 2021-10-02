@@ -12,3 +12,7 @@ Format: -[Program name](name of the file)
 [Merge Sort](merge_sort.c)
 
 [Stack](stack.c)
+
+[Quick sort](Quick_Sort.c)
+
+[Bubble Sort](bubbleSort.c)
