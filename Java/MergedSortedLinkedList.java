@@ -8,7 +8,7 @@ class Node{
         next = null;
     }
 }
-public class MergedLinkedList{
+public class MergedSortedLinkedList{
     Node head;
 
     public static void printList(Node head){
