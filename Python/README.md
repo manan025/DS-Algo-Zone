@@ -5,7 +5,7 @@ Format: -[Program name](name of the file)
 
 [Bubble Sort](bubbleSort.py)
 
-[Shortest Path in Unweighted Graph](shortest_path_unweighted.py)  
+[Dijkstra's Algorithm](Dijkstra's.py)
 
 [Union Find Data Structure](ufds.py)
 
@@ -19,11 +19,13 @@ Format: -[Program name](name of the file)
 
 [Palindrome Check](palindrome_check.py)
 
-[Dijkstra's Algorithm](Dijkstra's.py)
+[Pascal's Triangle](Pascles_Triangle.py)
 
-[Union Find Data Structure](ufds.py)
+[Row_with_minimum_number_of 1's](Row_with_minimum_number_of_1's.py)
 
 [Selection Sort](selectionSort.py)
+
+[Shortest Path in Unweighted Graph](shortest_path_unweighted.py)
 
 [Tower of Hanoi(Recusion)](towerOfHanoi.py)
 
@@ -34,3 +36,5 @@ Format: -[Program name](name of the file)
 [Maximum Sum Increasing Subsequence](MaximumSumIncreasingSubsequence.py)
 
 [01Knapsack](01Knapsack.py)
+
+[Insertion Sort](Insertion_Sort.py)
