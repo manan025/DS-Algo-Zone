@@ -7,6 +7,8 @@ Format: -[Program name](name of the file)
 
 [Insertion Sort](insertion_sort.js)
 
+[Kadane's Algorithm](KadaneAlgorithm.js)
+
 [Linear Search](linear_search.js)
 
 [Minimum Number of 1s](./min_number_of_1.js)
