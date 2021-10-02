@@ -49,6 +49,8 @@ Format: -[Program name](name of the file)
 
 [Partition Equal Subset Sum](equal_partition_subset_sum.cpp)
 
+[Segment Tree](Segment_tree.cpp)
+
 [Tower of Hanoi Recursive](Tower_of_Hanoi_Recursive.cpp)
 
 [Quick Sort](quick_sort.cpp)
