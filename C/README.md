@@ -20,3 +20,6 @@ Format: -[Program name](name of the file)
 [Fibonacci_series](Fibonacci_series.c)
 
 [Pascal_Triangle](Pascal_Triangle.c)
+
+[Tree Traversals](Tree_traversals.c)
+
