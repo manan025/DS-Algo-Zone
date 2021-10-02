@@ -7,6 +7,10 @@ Format: -[Program name](name of the file)
 
 [Binary Search](binary_search.cpp)
 
+[Binary Tree Recursive Traversals](binary_tree_recursive_traversals.cpp)
+
+[Fibonacci Series](fibonacci_series.cpp)
+
 [Breadth First Search](BFS.cpp)
 
 [Bubble Sort](bubble_sort.cpp)
@@ -38,5 +42,3 @@ Format: -[Program name](name of the file)
 [Tower of Hanoi Recursive](Tower_of_Hanoi_Recursive.cpp)
 
 [Union Find DS](Union_find.cpp)
-
-
