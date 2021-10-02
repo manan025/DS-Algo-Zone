@@ -67,3 +67,12 @@ class Node
         data = d;
     }
 }
+
+/* SAMPLE INPUT
+ 1 42 3 4 3 2 1
+ 
+ OUTPUT
+ isPalindrome: true
+ 
+ Time complexity: O(n).
+ Complexity is O(n) with additional space complexity of O(n) Ade*/
