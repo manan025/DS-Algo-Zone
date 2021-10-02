@@ -7,6 +7,8 @@ Format: -[Program name](name of the file)
 
 [Bubble Sort](bubble_sort.cpp)
 
+[DNF SORT](dnf_sort.cpp)
+
 [DFS](DFS.cpp)
 
 [Insertion Sort](insertion_sort.cpp)
