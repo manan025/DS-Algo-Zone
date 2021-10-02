@@ -28,18 +28,23 @@ Add links to your code in Alphabetical Order.
 
 [Selection Sort](./SelectionSort.java)
 
-
 [Tower Of Hanoi - Recursive](./TowerOfHanoiRecursive.java)
 
 [Insertion Sort](./InsertionSort.java)
+
+[N-Queen](./NQueen.java)
  
 [Quick Sort](./QuickSort.java)
 
-[Palindrome linked list](./PalindromeLinkedList)
+[Merge Sorted linked list](./MergedSortedLinkedList)
 
-[Floyd Algorithm](./FloydAlgorithm.java) 
+[Kadane Algorithm](./KadenAlgorithm.java)
+
 
 [Level order Traversal](./LevelOrderTraversal.java)
+
+[Palindrome linked list](./PalindromeLinkedList)
+
 
 [Vertical Traversal Of Binary Tree](./VerticalTraversalOfTree.java) 
  
