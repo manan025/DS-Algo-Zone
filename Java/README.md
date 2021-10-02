@@ -46,3 +46,7 @@ Add links to your code in Alphabetical Order.
 [Quick Sort](./QuickSort.java)
 
 [Euclid's Algorithm](./Euclid_algorithm.java)
+
+[Depth First Search](./DFS.java)
+
+[Breadth First Search](./BFS.java)
