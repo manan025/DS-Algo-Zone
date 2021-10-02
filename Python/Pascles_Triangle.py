@@ -21,3 +21,33 @@ if __name__ == '__main__':
 
 
 
+'''
+Example 1:
+-----------
+Input
+Enter the n^th row: 4
+
+Output
+[1]
+[1, 1]
+[1, 2, 1]
+[1, 3, 3, 1]
+
+
+Example 2:
+----------
+Input
+Enter the n^th row: 6
+
+Output
+[1]
+[1, 1]
+[1, 2, 1]
+[1, 3, 3, 1]
+[1, 4, 6, 4, 1]
+[1, 5, 10, 10, 5, 1]
+
+
+TIME COMPLEXITY: O(n^2)
+SPACE COMPLEXITY: O(n^2)
+'''
