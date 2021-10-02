@@ -14,6 +14,8 @@ Add links to your code in Alphabetical Order.
 
 [Kadane Algo](./kadaneAlgorithm.java)
 
+[Knapsack](./Knapsack.java)
+
 [Linear Search](./LinearSearch.java)
 
 [Longest Substring Without Repeating Characters](./Longest_Substring_Without_Repeating_Characters.java)
@@ -23,6 +25,8 @@ Add links to your code in Alphabetical Order.
 [Minimum Number of 1s](./min_number_of_1.java)
 
 [Palindrome String](./PalindromeString.java)
+
+[Pascal's Triangle](./Pascals_Triangle.java)
 
 [Quick Sort](./QuickSort.java)
 
@@ -40,6 +44,8 @@ Add links to your code in Alphabetical Order.
 
 [Kadane Algorithm](./KadenAlgorithm.java)
 
+[Level order Traversal](./LevelOrderTraversal.java)
+
 [Palindrome linked list](./PalindromeLinkedList)
 
 [Vertical Traversal Of Binary Tree](./VerticalTraversalOfTree.java) 
@@ -51,3 +57,9 @@ Add links to your code in Alphabetical Order.
 [Dijkstra's Algorithm](./Dijkstra.java)
 
 [Kruskal's Minimum Spanning Tree](./Kruskal.java)
+
+[Depth First Search](./DFS.java)
+
+[Breadth First Search](./BFS.java)
+
+[Binary Tree Recursive Traversals](./BinaryTree_RecursiveTraversals.java)
