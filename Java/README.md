@@ -58,4 +58,8 @@ Add links to your code in Alphabetical Order.
 
 [Dijkstra's Algorithm](./Dijkstra.java)
 
+[Depth First Search](./DFS.java)
+
+[Breadth First Search](./BFS.java)
+
 [Binary Tree Recursive Traversals](./BinaryTree_RecursiveTraversals.java)
