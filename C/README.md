@@ -11,6 +11,8 @@ Format: -[Program name](name of the file)
 
 [Merge Sort](merge_sort.c)
 
+[partition equal subset sum](partition_equal_subset_sum.c)
+
 [Stack](stack.c)
 
 [Quick sort](Quick_Sort.c)
