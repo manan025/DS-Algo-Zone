@@ -11,11 +11,15 @@ Format: -[Program name](name of the file)
 
 [Merge Sort](merge_sort.c)
 
+[partition equal subset sum](partition_equal_subset_sum.c)
+
 [Stack](stack.c)
 
 [Quick sort](Quick_Sort.c)
 
 [Bubble Sort](bubbleSort.c)
+
+[Euclid's Algorithm](Euclid_algorithm.c)
 
 [Fibonacci_series](Fibonacci_series.c)
 
@@ -23,3 +27,4 @@ Format: -[Program name](name of the file)
 
 [Tree Traversals](Tree_traversals.c)
 
+[Fibonacci_series](fibonacci_series_code.c)
