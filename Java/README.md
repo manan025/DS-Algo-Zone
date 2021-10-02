@@ -8,6 +8,8 @@ Add links to your code in Alphabetical Order.
 
 [Fibonacci Series](./Fibonacci Program.java)
 
+[Gold mine Problem](./Goldmine.java)
+
 [Insertion Sort](./InsertionSort.java)
 
 [Kadane Algo](./kadaneAlgorithm.java)
