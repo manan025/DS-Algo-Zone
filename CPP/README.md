@@ -35,8 +35,8 @@ Format: -[Program name](name of the file)
 
 [Longest Substring without Repeating characters](Longest_Substring_without_repeating_characters.cpp)
 
+[sieve of eratosthenes](sieve_of_eratosthenes.cpp)
+
 [Tower of Hanoi Recursive](Tower_of_Hanoi_Recursive.cpp)
 
 [Union Find DS](Union_find.cpp)
-
-
