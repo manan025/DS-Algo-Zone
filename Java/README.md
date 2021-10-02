@@ -44,11 +44,9 @@ Add links to your code in Alphabetical Order.
 
 [Kadane Algorithm](./KadenAlgorithm.java)
 
-
 [Level order Traversal](./LevelOrderTraversal.java)
 
 [Palindrome linked list](./PalindromeLinkedList)
-
 
 [Vertical Traversal Of Binary Tree](./VerticalTraversalOfTree.java) 
  
@@ -57,6 +55,8 @@ Add links to your code in Alphabetical Order.
 [Euclid's Algorithm](./Euclid_algorithm.java)
 
 [Dijkstra's Algorithm](./Dijkstra.java)
+
+[Kruskal's Minimum Spanning Tree](./Kruskal.java)
 
 [Depth First Search](./DFS.java)
 
