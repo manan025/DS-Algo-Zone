@@ -45,6 +45,8 @@ Format: -[Program name](name of the file)
 
 [Maximum Sum Increasing Subsequence](Max_Sum_Inc_Subs.cpp)
 
+[Merge Sort For Arrays](./Merge_Sort_For_Arrays)
+
 [Minimum number of 1's](Row%20with%20minimum%20number%20of%201s%20in%20C++.cpp)
 
 [Partition Equal Subset Sum](equal_partition_subset_sum.cpp)
