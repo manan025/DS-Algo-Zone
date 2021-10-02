@@ -30,7 +30,13 @@ Add links to your code in Alphabetical Order.
 [Tower Of Hanoi - Recursive](./TowerOfHanoiRecursive.java)
 
 [Insertion Sort](./InsertionSort.java)
+ 
+[Quick Sort](./QuickSort.java)
+
+[Palindrome linked list](./PalindromeLinkedList)
+
+[Floyd Algorithm](./FloydAlgorithm.java) 
 
 [Level order Traversal](./LevelOrderTraversal.java)
 
-[Floyd Algorithm](./FloydAlgorithm.java)  
+[Euclid's Algorithm](./Euclid_algorithm.java)
