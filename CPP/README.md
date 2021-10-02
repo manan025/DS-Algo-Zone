@@ -31,14 +31,16 @@ Format: -[Program name](name of the file)
 
 [Linear Search](linear_search.cpp)
 
+[Longest Substring without Repeating characters](Longest_Substring_without_repeating_characters.cpp)
+
 [Maximum Sum Increasing Subsequence](Max_Sum_Inc_Subs.cpp)
 
 [Minimum number of 1's](Row%20with%20minimum%20number%20of%201s%20in%20C++.cpp)
 
-[Quick Sort](quick_sort.cpp)
-
-[Longest Substring without Repeating characters](Longest_Substring_without_repeating_characters.cpp)
+[Partition Equal Subset Sum](equal_partition_subset_sum.cpp)
 
 [Tower of Hanoi Recursive](Tower_of_Hanoi_Recursive.cpp)
+
+[Quick Sort](quick_sort.cpp)
 
 [Union Find DS](Union_find.cpp)
