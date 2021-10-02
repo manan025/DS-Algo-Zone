@@ -55,4 +55,6 @@ Format: -[Program name](name of the file)
 
 [Union Find DS](Union_find.cpp)
 
+[Vertical Traversal of Binary Tree](Vertical_Traversal_of_Binary_tree.cpp)
+
 [N-Queens Proplem](N-QueensProblem.cpp)
