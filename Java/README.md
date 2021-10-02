@@ -46,3 +46,5 @@ Add links to your code in Alphabetical Order.
 [Quick Sort](./QuickSort.java)
 
 [Euclid's Algorithm](./Euclid_algorithm.java)
+
+[Kruskal's Minimum Spanning Tree](./Kruskal.java)
