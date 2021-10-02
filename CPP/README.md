@@ -49,12 +49,18 @@ Format: -[Program name](name of the file)
 
 [Merge Two Sorted Linked list](Merge_sorted_linked_lists.cpp)
 
+[Morris Preorder and Inorder Traversal](Morris_Preorder_and_Inorder_Traversal.cpp)
+
 [Partition Equal Subset Sum](equal_partition_subset_sum.cpp)
+
+[Segment Tree](Segment_tree.cpp)
 
 [Tower of Hanoi Recursive](Tower_of_Hanoi_Recursive.cpp)
 
 [Quick Sort](quick_sort.cpp)
 
 [Union Find DS](Union_find.cpp)
+
+[Vertical Traversal of Binary Tree](Vertical_Traversal_of_Binary_tree.cpp)
 
 [N-Queens Proplem](N-QueensProblem.cpp)
