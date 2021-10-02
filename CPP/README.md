@@ -17,6 +17,8 @@ Format: -[Program name](name of the file)
 
 [DNF SORT](dnf_sort.cpp)
 
+[Deletion In BST](Deletion_in_BST.cpp)
+
 [DFS](DFS.cpp)
 
 [Gold Mine using DP](gold_mine_using_dp.cpp)
@@ -24,6 +26,8 @@ Format: -[Program name](name of the file)
 [Djikstra's Algorithm](Djikstra's_Algorithm.cpp)
 
 [Floyd Warshall Algorithm](Floyd-Warshall_Algorithm.cpp)
+
+[Insertion in BST](Insertion_in_BST.cpp)
 
 [Insertion Sort](insertion_sort.cpp)
 
