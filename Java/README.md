@@ -39,4 +39,10 @@ Add links to your code in Alphabetical Order.
 
 [Floyd Algorithm](./FloydAlgorithm.java) 
 
+[Floyd Algorithm](./FloydAlgorithm.java) 
+
+[Vertical Traversal Of Binary Tree](./VerticalTraversalOfTree.java) 
+ 
+[Quick Sort](./QuickSort.java)
+
 [Euclid's Algorithm](./Euclid_algorithm.java)
