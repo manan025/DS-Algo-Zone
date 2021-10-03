@@ -3,4 +3,6 @@
 
 [Linked list is palindrome](./linked_list_is_palindrome.cs)
 
+[sieve of eratosthenes](./SieveOfEratosthenes.cs)
+
 [Quick Sort](./quick_sort.cs)
