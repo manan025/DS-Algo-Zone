@@ -16,6 +16,7 @@ int maxValue(int a, int b) {
 *   3) Start iterating the array and adding the array value at ith index to variable temp.
 *   4) If at any point, the temp variable is greater than sum variable then update sum. or if the temp variable is lower than zero then reset temp variable to zero.
 *   5) After iterating the whole array, check if there is at least one non-negative element or not, if there is then simply return the sum value otherwise return the negative value closer to the zero.
+*   Since we are iterating the array only once and only using 4 extra variables, hence the time complexity is O(n) where n is the size of the given array and space complexity is constant
 */
 int maxSubarraySum(int* arr, int size) {
     bool allNegative = true;
@@ -42,7 +43,7 @@ int main() {
     scanf("%d", &n);
 
     if(n <= 0) {
-        printf("array size must be greater than 0\");
+        printf("array size must be greater than 0\n");
         return -1;
     }
 
@@ -63,5 +64,3 @@ int main() {
 * Expected output
 * 5
 */
-
-
