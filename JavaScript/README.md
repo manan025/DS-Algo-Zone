@@ -5,6 +5,8 @@ Format: -[Program name](name of the file)
 
 [Bubble Sort](bubble_sort.js)
 
+[Binary Tree Recursive Traversals ( Inorder , Preorder , Postorder )](BinaryTreeTraversal.js)
+
 [Fibonacci](fibonacci.js)
 
 [Insertion Sort](insertion_sort.js)
