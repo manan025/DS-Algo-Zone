@@ -9,6 +9,8 @@ Format: -[Program name](name of the file)
 
 [Binary Tree Recursive Traversals](binary_tree_recursive_traversals.cpp)
 
+[Belmon Ford](Belmonford.cpp) 
+
 [Fibonacci Series](fibonacci_series.cpp)
 
 [Breadth First Search](BFS.cpp)
@@ -56,6 +58,8 @@ Format: -[Program name](name of the file)
 [Merge Two Sorted Linked list](Merge_sorted_linked_lists.cpp)
 
 [Morris Preorder and Inorder Traversal](Morris_Preorder_and_Inorder_Traversal.cpp)
+
+[modulo inverse](modulo_inverse.cpp)
 
 [Partition Equal Subset Sum](equal_partition_subset_sum.cpp)
 
