@@ -33,6 +33,8 @@ Format: -[Program name](name of the file)
 
 [Implement Stack using array](StackUsingArray.cpp)
 
+[Jump Search](Jump_search.cpp)
+
 [Kadane's_Algorithm](Kadane's_Algorithm.cpp)
 
 [Kruskal's Algorithm for Minimum Spanning Tree](kruskal_minimum_spanning_tree.cpp)
