@@ -21,3 +21,18 @@ func main() {
 	numRows := 5
 	pascalsTriangle(numRows)
 }
+
+/* EXAMPLE
+Input: 5
+Output:
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
+*/
+
+/* COMPLEXITY
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+*/
