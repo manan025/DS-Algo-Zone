@@ -57,6 +57,8 @@ Format: -[Program name](name of the file)
 
 [Morris Preorder and Inorder Traversal](Morris_Preorder_and_Inorder_Traversal.cpp)
 
+[modulo inverse](modulo_inverse.cpp)
+
 [Partition Equal Subset Sum](equal_partition_subset_sum.cpp)
 
 [Segment Tree](Segment_tree.cpp)
