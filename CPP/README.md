@@ -61,6 +61,8 @@ Format: -[Program name](name of the file)
 
 [Segment Tree](Segment_tree.cpp)
 
+[Spiral Traversal of a 2D Matrix](Spiral_traversal_2D_matrix.cpp)
+
 [Tower of Hanoi Recursive](Tower_of_Hanoi_Recursive.cpp)
 
 [Quick Sort](quick_sort.cpp)
