@@ -1,6 +1,6 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
-  
+
 [0/1 knapsack](knapsack.cpp)
 
 [Bi Partite](BiPartite.cpp)
@@ -13,11 +13,15 @@ Format: -[Program name](name of the file)
 
 [Breadth First Search](BFS.cpp)
 
+[Breadth First Search on a Grid](BFS_2d_Grid.cpp)
+
 [Bubble Sort](bubble_sort.cpp)
 
 [DNF SORT](dnf_sort.cpp)
 
 [DFS](DFS.cpp)
+
+[DFS on a Grid](DFS_2d_Grid.cpp)
 
 [Gold Mine using DP](gold_mine_using_dp.cpp)
 
@@ -45,9 +49,17 @@ Format: -[Program name](name of the file)
 
 [Maximum Sum Increasing Subsequence](Max_Sum_Inc_Subs.cpp)
 
+[Merge Sort For Arrays](./Merge_Sort_For_Arrays)
+
 [Minimum number of 1's](Row%20with%20minimum%20number%20of%201s%20in%20C++.cpp)
 
+[Merge Two Sorted Linked list](Merge_sorted_linked_lists.cpp)
+
+[Morris Preorder and Inorder Traversal](Morris_Preorder_and_Inorder_Traversal.cpp)
+
 [Partition Equal Subset Sum](equal_partition_subset_sum.cpp)
+
+[Segment Tree](Segment_tree.cpp)
 
 [Tower of Hanoi Recursive](Tower_of_Hanoi_Recursive.cpp)
 
@@ -58,3 +70,5 @@ Format: -[Program name](name of the file)
 [Vertical Traversal of Binary Tree](Vertical_Traversal_of_Binary_tree.cpp)
 
 [N-Queens Proplem](N-QueensProblem.cpp)
+
+[Topological Sorting](Topological_sorting.cpp)

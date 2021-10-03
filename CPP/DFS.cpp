@@ -31,7 +31,7 @@ int main()
         arr[a].push_back(b); // pushing a in adjacency list of b
         arr[b].push_back(a); // pushing b in adjacency list of a
     }
-
+    //run for loop
     for(int i = 1;i<n+1;i++)
         dfs(i); // calling function dfs
     
