@@ -1,0 +1,11 @@
+console.log("how to declare variables in javascript");
+let a=10;
+console.log("integer stored=", a);
+console.log("type of variable => ", typeof a);
+console.log("but variables are dynamically stored in javascript");
+a="hi I am Jas-Script";
+console.log("string stored is=", a);
+console.log("type of variable => ", typeof a);
+a=true;
+console.log("now the boolean stored is= ", a);
+console.log("type of variable => ", typeof a);
