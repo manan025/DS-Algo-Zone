@@ -42,7 +42,7 @@ int main() {
     scanf("%d", &n);
 
     if(n <= 0) {
-        printf("array size must be greater than 0\");
+        printf("array size must be greater than 0\n");
         return -1;
     }
 
@@ -63,5 +63,3 @@ int main() {
 * Expected output
 * 5
 */
-
-
