@@ -1,4 +1,5 @@
-
+Time Complexity: O(n) 
+Auxiliary Space: O(n) for stack. 
 #include <bits/stdc++.h>
 using namespace std;
 #define MAX_SIZE 101
