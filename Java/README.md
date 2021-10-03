@@ -6,6 +6,8 @@ Add links to your code in Alphabetical Order.
 
 [Bubble Sort](./bubbleSort.java)
 
+[Climb Stairs with minimum moves using DP](./ClimbStairs.java)
+
 [Fibonacci Series](./Fibonacci Program.java)
 
 [Gold mine Problem](./Goldmine.java)
