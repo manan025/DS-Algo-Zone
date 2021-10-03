@@ -9,6 +9,8 @@ Format: -[Program name](name of the file)
 
 [Insertion Sort](insertion_sort.js)
 
+[Kadane's Algorithm](KadaneAlgorithm.js)
+
 [Linear Search](linear_search.js)
 
 [Merge Sort](Merge_Sort.js)
