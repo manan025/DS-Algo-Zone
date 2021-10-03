@@ -72,3 +72,5 @@ Format: -[Program name](name of the file)
 [N-Queens Proplem](N-QueensProblem.cpp)
 
 [Topological Sorting](Topological_sorting.cpp)
+
+[sieve of eratosthenes](sieve_of_eratosthenes.cpp)

@@ -28,3 +28,5 @@ Format: -[Program name](name of the file)
 [Tree Traversals](Tree_traversals.c)
 
 [Fibonacci_series](fibonacci_series_code.c)
+
+[0/1 Knapsack](0-1_knapsack.c)
