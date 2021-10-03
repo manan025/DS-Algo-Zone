@@ -5,6 +5,8 @@ Format: -[Program name](name of the file)
 
 [Check Palindrome](check_palindrome.c)
 
+[DNF Sort](DNFSort.c)
+
 [Insertion Sort](insertion_sort.c)
 
 [Linear Search](linear_search.c)
