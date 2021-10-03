@@ -7,6 +7,8 @@ Format: -[Program name](name of the file)
 
 [Dijkstra's Algorithm](Dijkstra's.py)
 
+[DNF SORT] (DNF_Sort.py)
+
 [Union Find Data Structure](ufds.py)
 
 [Kadane's Algorithm to find Largest Sum contiguous subarray](kadanes_algorithm_largest_sum_contiguous_subarray.py)
