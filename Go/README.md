@@ -4,6 +4,8 @@ Format: -[Program name](name of the file)
 
 [Palindrome Check](palindrome.go)
 
+[Pascal's Triangle](pascalsTriangle.go)
+
 [Sieve of Eratosthenes](SieveOfEratosthenes.go)
 
 [Palindrome Check](palindrome.go)
