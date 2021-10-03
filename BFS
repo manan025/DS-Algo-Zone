@@ -1,0 +1,75 @@
+//srishti1302
+import java.util.*;
+class bfs
+{
+  int V;
+  LinkedList<Integer>adj[];
+  Queue<Integer>q;
+  @SuppressWarnings("unchecked") 
+  bfs(int V)
+  {
+    this.V = V;
+    adj = new LinkedList[V];
+    int i=0;
+    for(i=0;i<V;i++)
+      adj[i] = new LinkedList<Integer>();
+    q = new LinkedList<Integer>();
+  }
+  void addEdge(int v,int w)
+  {
+    adj[v].add(w);
+  }
+  void BFS(int v)
+  {
+    Boolean visited[] = new Boolean[V];
+    int i=0;
+    for(i=0;i<V;i++)
+      visited[i] = false;
+    q.add(v);
+    while(q.size()!=0)
+    {
+      v = q.poll();
+      if(!visited[v])
+      {
+        System.out.println(v + " ");
+        visited[v] = true;
+      }
+      for(i=0;i<adj[v].size();i++)
+      {
+        int a = adj[v].get(i);
+        if(!visited[a])
+          q.add(a);
+      }
+    }
+  }
+  public static void main(String[] args)
+  {
+   
+    Scanner s=new Scanner(System.in);
+   	System.out.println("Enter number of vertices");
+   	    int v;
+   	    v=s.nextInt();
+   	    System.out.println("Enter number of edges");
+   	    int e;
+   	    e=s.nextInt();
+   		bfs g = new bfs(v);
+           int v1,v2;
+           System.out.println("Enter edges");
+           for(int i=0;i<e;i++)
+           {
+            v1=s.nextInt();
+            v2=s.nextInt();
+            g.addEdge(v1,v2);
+            g.addEdge(v2,v1);
+           }
+       System.out.println("Enter source node");
+       int source=s.nextInt();
+   		System.out.println(
+   			"BFS"
+   			+ "(starting from vertex "+source+")");
+   		s.close();
+ 
+   		
+    g.BFS(source);
+  }
+}
