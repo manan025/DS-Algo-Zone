@@ -65,6 +65,8 @@ Format: -[Program name](name of the file)
 
 [Quick Sort](quick_sort.cpp)
 
+[Rotate Array](Rotate_array.cpp)
+
 [Union Find DS](Union_find.cpp)
 
 [Vertical Traversal of Binary Tree](Vertical_Traversal_of_Binary_tree.cpp)
