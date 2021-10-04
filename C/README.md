@@ -7,6 +7,8 @@ Format: -[Program name](name of the file)
 
 [Insertion Sort](insertion_sort.c)
 
+[Kadane Algorithm](Kadane_algorithm.c)
+
 [Linear Search](linear_search.c)
 
 [Merge Sort](merge_sort.c)
