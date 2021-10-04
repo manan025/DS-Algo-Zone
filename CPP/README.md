@@ -72,3 +72,5 @@ Format: -[Program name](name of the file)
 [N-Queens Proplem](N-QueensProblem.cpp)
 
 [Topological Sorting](Topological_sorting.cpp)
+
+[Climbing stairs with min moves](climb_stairs_with_min_moves.cpp)
