@@ -18,7 +18,7 @@ public:
     bool isEmpty();
 };
  
-bool Stack::push(int x)
+bool Stack::push(int x)  // Insert operation : Time Complexity : O(1), Space complexity : O(1)(Average)
 {
     if (top >= (MAX - 1)) {
         cout << "Stack Overflow";
@@ -31,7 +31,7 @@ bool Stack::push(int x)
     }
 }
  
-int Stack::pop()
+int Stack::pop()  // Delete operation : Time Complexity : O(1)
 {
     if (top < 0) {
         cout << "Stack Underflow";
@@ -42,7 +42,7 @@ int Stack::pop()
         return x;
     }
 }
-int Stack::peek()
+int Stack::peek()  // Time complexity : O(1)
 {
     if (top < 0) {
         cout << "Stack is Empty";
@@ -54,7 +54,7 @@ int Stack::peek()
     }
 }
  
-bool Stack::isEmpty()
+bool Stack::isEmpty()  // Time complexity : O(1)
 {
     return (top < 0);
 }
@@ -62,12 +62,12 @@ bool Stack::isEmpty()
 int main()
 {
     class Stack s;
-    s.push(10);
-    s.push(20);
-    s.push(30);
-    cout << s.pop() << " Popped from stack\n";
+    s.push(10);  // 10 is inserted
+    s.push(20);  // 20 is inserted
+    s.push(30);  // 30 is inserted
+    cout << s.pop() << " Popped from stack\n"; // 30 is popped
     //print all elements in stack :
-    cout<<"Elements present in stack : ";
+    cout<<"Elements present in stack : "; // 10 20
     while(!s.isEmpty())
     {
         // print top element in stack
