@@ -13,3 +13,5 @@ Format: -[Program name](name of the file)
 [Tower Of Hanoi](towerOfHanoi_Recursive.go)
 
 [Binary Search](binarySearch.go)
+
+[Linear Search](linearSearch.go)
