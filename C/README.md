@@ -5,7 +5,11 @@ Format: -[Program name](name of the file)
 
 [Check Palindrome](check_palindrome.c)
 
+[Climb Stairs with Minimum Moves](climb_stairs_with_min_moves.c)
+
 [Insertion Sort](insertion_sort.c)
+
+[Kadane Algorithm](Kadane_algorithm.c)
 
 [Linear Search](linear_search.c)
 
