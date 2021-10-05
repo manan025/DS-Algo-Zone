@@ -13,6 +13,8 @@ Format: -[Program name](name of the file)
 
 [Row with minimum number of 1's](./min_number_of_1.kt)
 
+[Selection Sort](Kotlin/SelectionSort.kt) <br />
+
 [Quick Sort](./QuickSort.kt)
 
 [Fibonacci](./fibonacci.kt)
